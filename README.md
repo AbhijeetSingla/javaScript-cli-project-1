@@ -1,6 +1,6 @@
 # Quiz
 
-Play the quiz - [here](https://replit.com/@AbhijeetSingla/Lecture-1-markOne?embed=1&output=1#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/abhijeetsingla/neogcamp-cli-project-1)](https://repl.it/github/abhijeetsingla/neogcamp-cli-project-1)
 
 # About
 
