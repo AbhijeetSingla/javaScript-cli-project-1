@@ -10,7 +10,7 @@ The quiz was made using a service called [repl.it](https://repl.it).
 
 This service allows to run a CLI without much configuration, as it automatically installs the packages and has a smart IDE.
 
-My repl.it profile - [repl.it/@abhijeetsingla](repl.it/@abhijeetsingla)
+My repl.it profile - [repl.it/@abhijeetsingla](https://repl.it/@abhijeetsingla)
 
 This code demonstrates the functionality of the following things:
 - Arrays
