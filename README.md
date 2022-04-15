@@ -4,7 +4,7 @@
 
 # About
 
-This quiz's questions are about me, indicating how much do you know me. It was made as a project in [neogcamp lesson-1](https://neog.camp/guide/lesson-one)
+This quiz's questions are about me, indicating how much do you know me. It was made as a project to learn the basics of JavaScript, as is also shown in [neog.camp lesson-1](https://neog.camp/guide/lesson-one).
 
 The quiz was made using a service called [repl.it](https://repl.it).
 
